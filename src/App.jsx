@@ -409,10 +409,10 @@ export default function App() {
         {/* Header */}
         <div className="text-center mb-12 animate-slide-up">
           <h1 className="text-6xl font-bold mb-4 bg-gradient-to-r from-purple-400 via-pink-400 to-blue-400 bg-clip-text text-transparent" style={{ fontFamily: 'Syne, sans-serif' }}>
-            PDF Toolkit
+             Toolkit
           </h1>
           <p className="text-purple-200 text-lg">
-            Professional PDF manipulation tools - all in your browser
+            Im not paying for Adobe Acrobat.
           </p>
         </div>
 

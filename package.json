@@ -1,11 +1,11 @@
 {
-  "name": "pdf-toolkit",
+  "name": "toolkit",
   "version": "1.0.0",
   "type": "module",
   "private": true,
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "npx vite build",
     "preview": "vite preview"
   },
   "dependencies": {
